@@ -1,16 +1,24 @@
-## Hi there 👋
+# Merhaba, ben Mustafa Çağrı Açıkgöz 👋
 
-<!--
-**mcagriacikgoz/mcagriacikgoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hakkımda
+L2 IT Specialist olarak kurumsal IT operasyonları, incident management ve production support alanlarında çalışıyorum.  
+Aynı zamanda DevOps, Linux, Docker, Kubernetes ve backend geliştirme tarafında kendimi geliştiriyorum.
 
-Here are some ideas to get you started:
+## Nelerle ilgileniyorum
+- IT Operations
+- DevOps
+- Linux
+- Docker
+- Kubernetes
+- PHP / Laravel
+- C# / SQL
+- ServiceNow / ITSM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Öne çıkan projeler
+- [ReadyNet](https://github.com/kullaniciadin/proje-linki) - URL shortener projesi
+- [ReleasePilot](https://github.com/kullaniciadin/proje-linki) - CI/CD odaklı proje
+- [Diğer Projem](https://github.com/kullaniciadin/proje-linki)
+
+## Bana ulaş
+- LinkedIn: https://linkedin.com/in/...
+- Mail: mailadresin@example.com
