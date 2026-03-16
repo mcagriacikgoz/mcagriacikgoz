@@ -1,36 +1,86 @@
-# 👋 Hi, I'm Çağrı Açıkgöz
-### **L2 IT Specialist | DevOps-Focused | Linux & Docker | Production Systems**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff&height=250&section=header&text=%20Çağrı%20Açıkgöz&fontSize=70&animation=fadeIn&fontAlignY=38&desc=SYSTEMS%20ARCHITECT%20|%20DEVOPS%20&descAlignY=62&descFontSize=20" width="100%"/>
 
-I am a **Management Information Systems (MIS)** graduate with over 3 years of hands-on experience in enterprise IT operations, currently transitioning into **DevOps & Infrastructure Engineering**. I specialize in building scalable, automated, and production-ready systems rather than just tutorial-based projects.
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=Status:+L2_Specialist_Online;Target:+DevOps_Transition_100%;Automating+the+Future...;Infrastructure+as+Code+is+the+Way." />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Infrastructure_as_Code-00d4ff?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Environment-Cloud_Native-blue?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Protocol-Containerization-cyan?style=for-the-badge&logo=docker&logoColor=white"/>
+</div>
+
+### 🔭 Professional Profile
+An **L2 IT Specialist** with 3+ years of enterprise experience, currently pivoting into **DevOps and Infrastructure Engineering**. I specialize in optimizing production environments, incident management, and building automated CI/CD pipelines.
+
+- ☁️ **Cloud Native:** Focused on containerization (Docker) and Cloud Ecosystems (GCP/Azure).
+- 🛠️ **Systems:** Deep expertise in Linux administration, PowerShell automation, and Network management.
+- 🏗️ **Architecture:** Actively developing microservice-based projects like **ReadyNet** and **ReleasePilot**.
 
 ---
 
-### 🛠️ Tech Stack
+### ⚡ Technical Stack
 
-| Category | Technologies |
+<div align="center">
+
+| **Category** | **Technologies** |
 | :--- | :--- |
-| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![GCP](https://img.shields.io/badge/-Google_Cloud-4285F4?logo=google-cloud&logoColor=white) ![CI/CD](https://img.shields.io/badge/-CI/CD-FF6600?logo=github-actions&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white) |
-| **Infrastructure** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white) ![Active Directory](https://img.shields.io/badge/-Active_Directory-0078D4?logo=microsoft&logoColor=white) ![Networking](https://img.shields.io/badge/-DNS/DHCP/VPN-gray) |
-| **Backend & Data** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) |
-| **Scripting & Tools** | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white) |
+| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,gcp,aws,azure,terraform,githubactions,linux,bash" /> |
+| **Development** | <img src="https://skillicons.dev/icons?i=nodejs,php,laravel,redis,postgres,mysql,cs" /> |
+| **Systems & Tools** | <img src="https://skillicons.dev/icons?i=windows,powershell,git,github,jira,vmware" /> |
+
+</div>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Key Infrastructure Projects
 
-#### 🛰️ [ReleasePilot](https://github.com/cagriack/ReleasePilot) – Cloud-Native CI/CD Pipeline
-A comprehensive deployment pipeline designed for containerized Node.js applications.
-- **Key Features:** Automated builds via **Google Cloud Build**, image management with **Artifact Registry**, and serverless deployments using **Cloud Run**.
-- **Motto:** *Code to Cloud in seconds.*
+<details>
+<summary><b>🔹 ReleasePilot | Cloud-Native CI/CD Pipeline</b></summary>
+<br>
+Designed a production-grade CI/CD pipeline for containerized Node.js applications.
 
-#### ⚡ [ReadyNet](https://github.com/cagriack/ReadyNet) – Production-Ready URL Shortener
-A scalable URL shortener service built with high-availability principles.
-- **Tech Stack:** Redis-based asynchronous job processing (worker-based architecture), PostgreSQL, and full Docker containerization.
+- **Stack:** Docker, Google Cloud Build, Artifact Registry, Cloud Run.
+- **Outcome:** Automated the entire deployment lifecycle from commit to serverless production.
+</details>
 
-#### ⚙️ [AutoRDP](https://github.com/cagriack/AutoRDP) – RDP Automation Tool
-A C#-based utility designed for enterprise support teams to automate and streamline remote desktop connections.
+<details>
+<summary><b>🔹 ReadyNet | Production-Ready Microservice</b></summary>
+<br>
+A scalable URL shortener architecture utilizing background worker patterns.
+
+- **Stack:** Node.js, Redis, Docker, GitHub Actions.
+- **Outcome:** Implemented asynchronous job processing and multi-container orchestration.
+</details>
+
+<details>
+<summary><b>🔹 Auto-RDP Tool | Infrastructure Utility</b></summary>
+<br>
+A custom C#-based shell script tool for automated enterprise remote access management.
+
+- **Outcome:** Streamlined L2 support workflows by eliminating manual credential entry for RDP sessions.
+</details>
 
 ---
+
+### 💼 Professional Experience
+
+**L2 IT Specialist** @ *D724 Bilişim Hizmetleri* `(2025 - Present)`
+> Managing enterprise-level IT operations, incident resolution (Level 2), and hybrid cloud infrastructure for global clients.
+
+**IT Field Specialist** @ *KCS Bilişim* `(2024 - 2025)`
+**IT Specialist** @ *Getucon GmbH* `(2023 - 2024)`
+
+---
+
+### 📜 Certifications & Education
+
+* **Intel - Cloud DevOps Specialist** (Advanced)
+* **Intel Partner Technical Pro**
+* **Acronis - M365 Security**
+* **B.Sc. in Management Information Systems** | Bartın University
+
 
 ### 📈 Professional Focus
 - **Systems Engineering:** Expert support for Linux/Ubuntu environments and Apache/Nginx configurations.
@@ -51,3 +101,5 @@ A C#-based utility designed for enterprise support teams to automate and streaml
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/cagriack)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:cagriack@gmail.com)
+
+
