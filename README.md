@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mustafa Çağrı Açıkgöz
+# 👋 Hi, I'm Çağrı Açıkgöz
 ### **L2 IT Specialist | DevOps-Focused | Linux & Docker | Production Systems**
 
 I am a **Management Information Systems (MIS)** graduate with over 3 years of hands-on experience in enterprise IT operations, currently transitioning into **DevOps & Infrastructure Engineering**. I specialize in building scalable, automated, and production-ready systems rather than just tutorial-based projects.
