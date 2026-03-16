@@ -51,5 +51,3 @@ A C#-based utility designed for enterprise support teams to automate and streaml
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/cagriack)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:cagriack@gmail.com)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cagriack&show_icons=true&theme=tokyonight)
